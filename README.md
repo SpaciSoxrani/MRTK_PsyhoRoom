@@ -1,2 +1,2 @@
 # MRTK_PsyhoRoom
-MRTK project for Microsoft HoloLens
+MRTK project for Microsoft HoloLens. Данный проект разработан для смешанной реальности. Сцена представляет из себя стол с предметами, с которыми пользователь может взаимодействовать. Проект разработан в Unity. 
